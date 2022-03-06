@@ -10,4 +10,6 @@ It's also supposed to be good for screen sharing/recording and YouTube videos.
 
 ![JSON syntax preview](images/json-preview.png)
 
+*Theme icon is from FlatIcon.com*
+
 **Enjoy!**
