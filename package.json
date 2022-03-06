@@ -3,14 +3,15 @@
     "displayName": "Ice Blue",
     "publisher": "danascript",
     "icon": "images/icon.png",
+    "repository": "https://github.com/danascript/ice-blue-dark-theme",
     "galleryBanner": {
         "color": "#061b26",
         "theme": "dark"
     },
-    "description": "",
-    "version": "0.0.1",
+    "description": "Crisp as an Ice cube",
+    "version": "0.0.2",
     "engines": {
-        "vscode": "^1.65.0"
+        "vscode": "^1.20.0"
     },
     "categories": [
         "Themes"

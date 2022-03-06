@@ -6,8 +6,8 @@ A dark theme made with frontend libraries' code in mind.
 
 It's also supposed to be good for screen sharing/recording and YouTube videos.
 
-![ReactJS syntax preview](/images/react-preview.png)
+![ReactJS syntax preview](images/react-preview.png)
 
-![JSON syntax preview](/images/json-preview.png)
+![JSON syntax preview](images/json-preview.png)
 
 **Enjoy!**
