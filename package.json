@@ -1,0 +1,27 @@
+{
+    "name": "ice-blue-dark-theme",
+    "displayName": "Ice Blue",
+    "publisher": "danascript",
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#061b26",
+        "theme": "dark"
+    },
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ice Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ice Blue-color-theme.json"
+            }
+        ]
+    }
+}
