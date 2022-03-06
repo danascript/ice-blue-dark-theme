@@ -1,6 +1,6 @@
 # Ice Blue Dark Theme
 
-After I couldn't find a theme I like, as anyone would do, I created my own :)
+Since I couldn't find a theme I like, as anyone would do, I created my own :)
 
 A dark theme made with frontend libraries' code in mind.
 
